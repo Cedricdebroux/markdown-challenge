@@ -9,8 +9,9 @@
 |--------------------|-------------|
 |Favorite color.     |Green        |
 |Favorite Food       |sushi        |
-|Pinneapple on pizza |Yes[] NO []. |
+ Pinneapple on pizza  Yes[] NO [] 
 
 
 ###### Hobbies
 
+*
