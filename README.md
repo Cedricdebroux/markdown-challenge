@@ -11,7 +11,8 @@
 |Favorite Food       |sushi        |
 
 Pinneapple on pizza  
-Yes[] NO [] 
+Yes[ ] 
+NO [ ] 
 
 
 ###### Hobbies
