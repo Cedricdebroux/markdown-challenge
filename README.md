@@ -19,3 +19,6 @@ Pinneapple on pizza
 
 * cycling
   * with my son 
+
+* walk on foot
+  * with my dog
