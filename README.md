@@ -1,7 +1,7 @@
 # Debroux Cédric
 * To be or not to be. that is the question.*
 
-![Moi] (https://github.com/Cedricdebroux/markdown-challenge/blob/master/IMG_2831.jpeg)
+![Moi](https://github.com/Cedricdebroux/markdown-challenge/blob/master/IMG_2831.jpeg)
 
 ###### C'est tout moi.
 
