@@ -22,3 +22,7 @@ Pinneapple on pizza
 
 * walk on foot
   * with my dog
+
+###### You can always count on me when you have to eat chocolate.
+
+I was born 40 years ago, it seems that I am a dinosor.
