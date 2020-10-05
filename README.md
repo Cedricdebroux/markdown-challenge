@@ -26,3 +26,5 @@ Pinneapple on pizza
 ###### You can always count on me when you have to eat chocolate.
 
 I was born 40 years ago, it seems that I am a dinosor.
+
+[ Previous ](https://github.com/rafacolsn/exercice-markdown) [ Next ](https://github.com/rafacolsn/exercice-markdown)
