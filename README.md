@@ -5,12 +5,12 @@
 
 ###### C'est tout moi.
 
-|Birthay       |26 Decembre|
-|--------------|-----------|
-|Favorite color|Green      |
-|Favorite Food |sushi      |
+|Birthay             |26 Decembre  |
+|--------------------|-------------|
+|Favorite color.     |Green        |
+|Favorite Food       |sushi        |
+|Pinneapple on pizza |Yes[ ] NO [ ]|
 
-No/oui
 
 ###### Hobbies
 
