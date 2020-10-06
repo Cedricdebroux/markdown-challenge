@@ -8,6 +8,7 @@ __To be or not to be. that is the question__
 |--------------------|-------------|
 |Favorite color.     |Green        |
 |Favorite Food       |sushi        |
+
 Pinneapple on pizza  
 - [ ] Yes 
 - [x] No
