@@ -1,5 +1,5 @@
 # Debroux Cédric
-* To be or not to be. that is the question *
+__To be or not to be. that is the question__
 
 ![Moi](https://github.com/Cedricdebroux/markdown-challenge/blob/master/IMG_2831.jpeg)
 
