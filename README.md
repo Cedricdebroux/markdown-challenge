@@ -13,8 +13,6 @@ __To be or not to be. that is the question__
 Pinneapple on pizza  
 - [ ] Yes 
 - [x] No
-
-
 ###### Hobbies
 
 * cycling
