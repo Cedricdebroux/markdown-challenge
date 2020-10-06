@@ -27,4 +27,4 @@ Pinneapple on pizza
 
 I was born 40 years ago, it seems that I am a dinosor.
 
-[ Previous ](https://github.com/rafacolsn/exercice-markdown/blob/master/README.md) [ Next ](https://github.com/Bertrand2/markdown-challenge)
+[ Previous ](https://github.com/rafacolsn/exercice-markdown/blob/master/README.md) |Cédric D| [ Next ](https://github.com/Bertrand2/markdown-challenge)
