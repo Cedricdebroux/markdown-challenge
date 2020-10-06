@@ -22,6 +22,8 @@ Pinneapple on pizza
 
 * walk on foot
   * with my dog
+  
+* Vidéo Games
 
 ###### You can always count on me when you have to eat chocolate.
 
